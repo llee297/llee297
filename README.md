@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llee297 (Alex Lee)
 - 👀 I’m interested in applying my programming skills into to interesting projects
-- 🌱 I’m currently learning Python and Java (Big Noob)
+- 🌱 I’m currently learning web development and Python (Big Noob)
 - 📫 You can reach me at alecksli31@gmail.com
 
 <!---
